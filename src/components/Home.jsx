@@ -12,7 +12,7 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm an aspiring Full Stack Developer
+            I'm an aspiring Software Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
           Passionate fresher with a strong interest in full-stack web development. Skilled in front-end technologies like HTML, CSS, JavaScript, and back-end technologies like Node.js and databases. Eager to contribute to impactful projects and learn from experienced professionals. Seeking opportunities to kick-start my career in web development and grow as a full-stack developer.
